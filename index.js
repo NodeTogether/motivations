@@ -13,4 +13,5 @@ module.exports = [
   , "oh, cool! check out what you just learned there!"
   , "learning something is the first step towards being awesome at it."
   , "don't be afraid to ask questions!"
+  , "this is amazing! keep with the good work"
 ];

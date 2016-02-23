@@ -4,6 +4,7 @@ module.exports = [
   , "getting started is hard, you did it, congratulations!"
   , "If you can see this message it means you got it working and that's something to celebrate! ['hip','hip']!"
   , "you are the best around."
+  , "nothing is ever going to keep you down!"
   , "computers are super hard, but you can defeat them!"
   , "it's okay to need a break, everyone needs one!"
   , "you got this."
@@ -14,4 +15,7 @@ module.exports = [
   , "learning something is the first step towards being awesome at it."
   , "don't be afraid to ask questions!"
   , "this is amazing! keep with the good work"
+  , "you've already defeated so many obstacles to get here—keep going! you can do it."
+  , "even the most accomplished computer people in the universe all make it up as they go along! this is okay."
+  , "is your code a parking ticket? because it looks _fine_."
 ];

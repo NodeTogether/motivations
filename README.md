@@ -1,20 +1,20 @@
-# warmfuzzies
-> feel better
+# motivations
+> you can do it!
 
 ## usage
 
-1. install `warmfuzzies` and save it to your `package.json`:
+1. install `motivations` and save it to your `package.json`:
 
   ```
-  npm install warmfuzzies --save
+  npm install motivations --save
   ```
 
 2. require it in your application
 
    ```
-   const fuzzies = require('warmfuzzies');
+   const motivations = require('motivations');
    ```
 
-3. now you have a variable `fuzzies` that points to an array of compliments!
+3. now you have a variable `motivations` that points to an array of encouraging statements!
 
 

@@ -18,4 +18,6 @@ module.exports = [
   , "you've already defeated so many obstacles to get here—keep going! you can do it."
   , "even the most accomplished computer people in the universe all make it up as they go along! this is okay."
   , "is your code a parking ticket? because it looks _fine_."
+  , "node is cool, and so are you :sparkles:"
+  , "wowowowowow you've got some kick-ass node skillz"
 ];

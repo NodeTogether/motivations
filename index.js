@@ -8,4 +8,5 @@ module.exports = [
   , "you got this"
   , "whoah you're pretty good at this"
   , "all the cats in the land bow down to your cool computer skills"
+  , "If you can see this message it means you got it working and that's something to celebrate! ['hip','hip']!"
 ];

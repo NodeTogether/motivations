@@ -9,4 +9,8 @@ module.exports = [
   , "you got this."
   , "whoah you're pretty good at this."
   , "all the cats in the land bow down to your cool computer skills."
+  , "there's a brazillion different ways to solve every problem - you only need one."
+  , "oh, cool! check out what you just learned there!"
+  , "learning something is the first step towards being awesome at it."
+  , "don't be afraid to ask questions!"
 ];

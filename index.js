@@ -20,4 +20,5 @@ module.exports = [
   , "is your code a parking ticket? because it looks _fine_."
   , "node is cool, and so are you :sparkles:"
   , "wowowowowow you've got some kick-ass node skillz"
+  , "They hate us, cause they ain't us!"
 ];

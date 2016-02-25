@@ -24,4 +24,6 @@ module.exports = [
   , "I'm pretty sure you're now fully qualified fantastic human."
   , "looks like you're pretty much awesome now."
   , "omg - I'm falling head over heels for your sweet skills."
+  , "keep going! you can do it!"
+  , "mistakes are how we learn. keep making them! you're doing awesome!"
 ];

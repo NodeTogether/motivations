@@ -24,4 +24,5 @@ module.exports = [
   , "I'm pretty sure you're now fully qualified fantastic human."
   , "looks like you're pretty much awesome now."
   , "omg - I'm falling head over heels for your sweet skills."
+  , "\"No bird soars in a calm\" - Wilbur Wright"
 ];

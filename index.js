@@ -33,4 +33,5 @@ module.exports = [
   , "mistakes are how we learn. keep making them! you're doing awesome!"
   , "✧･ﾟ\: \*✧･ﾟ\:\* you are super cool! \*\:･ﾟ✧\*\:･ﾟ✧"
   , "\✲ﾟ｡\.\(✿╹◡╹\)ﾉ☆\.｡₀\:\*ﾟ\✲ﾟ\*\:₀｡wow i cant believe how awesome this is"
+  , "\"No bird soars in a calm\" - Wilbur Wright"
 ];

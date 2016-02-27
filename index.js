@@ -27,4 +27,6 @@ module.exports = [
   , "look how far you've come! you're awesome!!"
   , "the best way to learn is by doing, and you are doing it good!"
   , "¡Lo estás haciendo muy bien!"
+  , "keep going! you can do it!"
+  , "mistakes are how we learn. keep making them! you're doing awesome!"
 ];

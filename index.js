@@ -14,6 +14,8 @@ module.exports = [
   , "oh, cool! check out what you just learned there!"
   , "learning something is the first step towards being awesome at it."
   , "don't be afraid to ask questions!"
+  , "rad beans! lets try another!"
+  , "impressive..."
   , "this is amazing! keep with the good work"
   , "you've already defeated so many obstacles to get here—keep going! you can do it."
   , "even the most accomplished computer people in the universe all make it up as they go along! this is okay."

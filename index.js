@@ -31,4 +31,6 @@ module.exports = [
   , "¡Lo estás haciendo muy bien!"
   , "keep going! you can do it!"
   , "mistakes are how we learn. keep making them! you're doing awesome!"
+  , "✧･ﾟ\: \*✧･ﾟ\:\* you are super cool! \*\:･ﾟ✧\*\:･ﾟ✧"
+  , "\✲ﾟ｡\.\(✿╹◡╹\)ﾉ☆\.｡₀\:\*ﾟ\✲ﾟ\*\:₀｡wow i cant believe how awesome this is"
 ];

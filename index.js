@@ -35,4 +35,5 @@ module.exports = [
   , "\✲ﾟ｡\.\(✿╹◡╹\)ﾉ☆\.｡₀\:\*ﾟ\✲ﾟ\*\:₀｡wow i cant believe how awesome this is"
   , "\"No bird soars in a calm\" - Wilbur Wright"
   , "Ayyyyyyy! so much WoW! very aWesome!!!"
+  , "\"Nothing is impossible, the word itself says \'I\'m possible!\'\" - Audrey Hepburn"
 ];

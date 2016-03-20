@@ -35,4 +35,6 @@ module.exports = [
   , "\✲ﾟ｡\.\(✿╹◡╹\)ﾉ☆\.｡₀\:\*ﾟ\✲ﾟ\*\:₀｡wow i cant believe how awesome this is"
   , "\"No bird soars in a calm\" - Wilbur Wright"
   , "Ayyyyyyy! so much WoW! very aWesome!!!"
+  , "Never leave house without your towel."
+  , "If 42 doesn't answer your question, try a prime number."
 ];

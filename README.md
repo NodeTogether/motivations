@@ -17,4 +17,6 @@
 
 3. now you have a variable `motivations` that points to an array of encouraging statements!
 
-
+  ```
+  console.log(motivations[0]); // prints "don't worry. no one actually knows what they're doing."
+  ```

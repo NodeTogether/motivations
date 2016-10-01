@@ -36,6 +36,7 @@ module.exports = [
   , "\"No bird soars in a calm\" - Wilbur Wright"
   , "Ayyyyyyy! so much WoW! very aWesome!!!"
 <<<<<<< HEAD
+<<<<<<< HEAD
   , "you finished a hard problem and learned something new. doesn't it feel great?"
   , "\"Nothing is impossible, the word itself says \'I\'m possible!\'\" - Audrey Hepburn"
   , "Never leave house without your towel."
@@ -61,4 +62,5 @@ module.exports = [
   , "your code looks purrr-fect!"
   , "You're the best! You can do anything!"
   , "Alright , let's go"
+  , "Don't hate, caffeinate"
 ];

@@ -46,4 +46,5 @@ module.exports = [
   , "\"May the force be with you, Node\"-JavaScript"
   , "Alright!! Way to go!!"
   , “The expert at anything, was once a beginner.”
+  , "les petit ruisseaux font les grandes rivieres" 
 ];

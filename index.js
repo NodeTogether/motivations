@@ -42,4 +42,5 @@ module.exports = [
   , "i'm pretty new to this."
   , "You've got 99 problems but node ain't one"
   , "Hakuna Matata!"
+  , "Reboot your life, everyday"
 ];

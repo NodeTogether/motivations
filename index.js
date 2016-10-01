@@ -40,4 +40,5 @@ module.exports = [
   , "Never leave house without your towel."
   , "If 42 doesn't answer your question, try a prime number."
   , "i'm pretty new to this."
+  , "You've got 99 problems but node ain't one"
 ];

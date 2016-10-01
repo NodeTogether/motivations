@@ -36,4 +36,5 @@ module.exports = [
   , "\"No bird soars in a calm\" - Wilbur Wright"
   , "Ayyyyyyy! so much WoW! very aWesome!!!"
   , "you finished a hard problem and learned something new. doesn't it feel great?"
+  , "\"Nothing is impossible, the word itself says \'I\'m possible!\'\" - Audrey Hepburn"
 ];

@@ -35,6 +35,7 @@ module.exports = [
   , "\✲ﾟ｡\.\(✿╹◡╹\)ﾉ☆\.｡₀\:\*ﾟ\✲ﾟ\*\:₀｡wow i cant believe how awesome this is"
   , "\"No bird soars in a calm\" - Wilbur Wright"
   , "Ayyyyyyy! so much WoW! very aWesome!!!"
+<<<<<<< HEAD
   , "you finished a hard problem and learned something new. doesn't it feel great?"
   , "\"Nothing is impossible, the word itself says \'I\'m possible!\'\" - Audrey Hepburn"
   , "Never leave house without your towel."
@@ -49,4 +50,7 @@ module.exports = [
   , "les petit ruisseaux font les grandes rivieres" 
   , "It's never too late!"
   , "Who's awesome? YOU'RE AWESOME!!!"
+  , "did you ever know that you're my hero? you're everything i would like to be."
+  , "charge forward!"
+  , "one more step. you're almost there!"
 ];

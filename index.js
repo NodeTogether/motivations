@@ -47,4 +47,5 @@ module.exports = [
   , "Alright!! Way to go!!"
   , “The expert at anything, was once a beginner.”
   , "les petit ruisseaux font les grandes rivieres" 
+  , "It's never too late!"
 ];

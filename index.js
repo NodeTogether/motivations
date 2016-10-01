@@ -57,4 +57,5 @@ module.exports = [
   , "You totally did the thing!"
   , "Donne tout ce que tu as et dis toi que ce n'est qu'un mauvais moment à passer ! Bon courage !"
   , "Get to da choppah! Nao!"
+  , "your code looks purrr-fect!"
 ];

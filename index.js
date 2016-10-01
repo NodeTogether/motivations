@@ -44,4 +44,5 @@ module.exports = [
   , "Hakuna Matata!"
   , "Reboot your life, everyday"
   , "\"May the force be with you, Node\"-JavaScript"
+  , "Alright!! Way to go!!"
 ];

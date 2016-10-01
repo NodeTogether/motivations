@@ -37,4 +37,6 @@ module.exports = [
   , "Ayyyyyyy! so much WoW! very aWesome!!!"
   , "you finished a hard problem and learned something new. doesn't it feel great?"
   , "\"Nothing is impossible, the word itself says \'I\'m possible!\'\" - Audrey Hepburn"
+  , "Never leave house without your towel."
+  , "If 42 doesn't answer your question, try a prime number."
 ];

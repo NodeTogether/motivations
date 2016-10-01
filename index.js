@@ -53,4 +53,6 @@ module.exports = [
   , "charge forward!"
   , "one more step. you're almost there!"
   , "what lovely code you have!"
+  , "Meow, you're paw-some"
+  , "You totally did the thing!"
 ];

@@ -45,4 +45,5 @@ module.exports = [
   , "Reboot your life, everyday"
   , "\"May the force be with you, Node\"-JavaScript"
   , "Alright!! Way to go!!"
+  , “The expert at anything, was once a beginner.”
 ];

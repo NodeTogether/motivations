@@ -35,6 +35,7 @@ module.exports = [
   , "\✲ﾟ｡\.\(✿╹◡╹\)ﾉ☆\.｡₀\:\*ﾟ\✲ﾟ\*\:₀｡wow i cant believe how awesome this is"
   , "\"No bird soars in a calm\" - Wilbur Wright"
   , "Ayyyyyyy! so much WoW! very aWesome!!!"
+<<<<<<< HEAD
   , "you finished a hard problem and learned something new. doesn't it feel great?"
   , "\"Nothing is impossible, the word itself says \'I\'m possible!\'\" - Audrey Hepburn"
   , "Never leave house without your towel."
@@ -55,4 +56,5 @@ module.exports = [
   , "what lovely code you have!"
   , "Meow, you're paw-some"
   , "You totally did the thing!"
+  , "Donne tout ce que tu as et dis toi que ce n'est qu'un mauvais moment à passer ! Bon courage !"
 ];
